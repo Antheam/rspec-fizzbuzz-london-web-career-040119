@@ -5,4 +5,8 @@ def fizzbuzz(int)
     'Fizz'
 end
  end 
+
+def fizzbuzz(int)
+  if int % 5==0 
+    ''
  
